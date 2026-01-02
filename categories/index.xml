@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Categories on Small Endings</title>
+    <link>https://writings.mayanksharma.me/categories/</link>
+    <description>Recent content in Categories on Small Endings</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <managingEditor>me.mayank.0602@gmail.com (Mayank Sharma)</managingEditor>
+    <webMaster>me.mayank.0602@gmail.com (Mayank Sharma)</webMaster>
+    <copyright>Copyright © 2026 Mayank Sharma. All rights reserved.</copyright>
+    <atom:link href="https://writings.mayanksharma.me/categories/index.xml" rel="self" type="application/rss+xml" />
+  </channel>
+</rss>

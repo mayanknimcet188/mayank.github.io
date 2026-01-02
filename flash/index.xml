@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Flash Fiction on Small Endings</title>
+    <link>https://writings.mayanksharma.me/flash/</link>
+    <description>Recent content in Flash Fiction on Small Endings</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <managingEditor>me.mayank.0602@gmail.com (Mayank Sharma)</managingEditor>
+    <webMaster>me.mayank.0602@gmail.com (Mayank Sharma)</webMaster>
+    <copyright>Copyright © 2026 Mayank Sharma. All rights reserved.</copyright>
+    <lastBuildDate>Fri, 02 Jan 2026 01:07:33 +0530</lastBuildDate>
+    <atom:link href="https://writings.mayanksharma.me/flash/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>For Now</title>
+      <link>https://writings.mayanksharma.me/flash/for-now/</link>
+      <pubDate>Fri, 02 Jan 2026 01:07:33 +0530</pubDate><author>me.mayank.0602@gmail.com (Mayank Sharma)</author>
+      <guid>https://writings.mayanksharma.me/flash/for-now/</guid>
+      <description>This is a flash fiction about someone saving human race from self-extinction by accessing the quantum realm</description>
+    </item>
+  </channel>
+</rss>
